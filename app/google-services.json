@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98299890531",
+    "project_id": "recommenadation-system",
+    "storage_bucket": "recommenadation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98299890531:android:cb43614899bbf0f3e7e156",
+        "android_client_info": {
+          "package_name": "com.example.recommenadationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98299890531-ht7lu7nuhbhmansupv32tndvcpdl48hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgV4_aUmALEOnFcATagnxUzm1s2LdGI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98299890531-ht7lu7nuhbhmansupv32tndvcpdl48hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
